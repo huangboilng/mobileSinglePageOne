@@ -1,0 +1,21 @@
+body{font-family:"Microsoft YaHei"; text-align:center; width:100%; margin:0 auto; background-color:#fff; color:#fff;}
+img{max-width:100%;}
+.container{
+  max-width: 640px;  
+  margin-right: auto;
+  margin-left: auto;
+  font-weight:500;
+  padding-left:15px;
+  padding-right:15px;
+}
+.dg-main-msg-box{color:#333; }
+.dg-main-msg h5{
+  line-height: 1.8em;
+  text-indent: 34px;
+  text-align: left;  font-size: 20px;
+  font-weight: 500;
+}
+.dg-main-account-hander img{  margin-top: 1.3em; margin-bottom: .8em;}
+.dg-main-footer-btn{ margin-top:4.3em;}
+.dg-main-footer-btn .footerbtn{ margin:1.6em auto;  width: 80%;}
+
